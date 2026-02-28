@@ -3,4 +3,4 @@ git remote add origin https://github.com/inan1822/inanTest.git
 sdasd
 
 
-no stop it
+no stop itgit add .
