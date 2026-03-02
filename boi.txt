@@ -1,3 +1,7 @@
 i feel sad today :()
+<<<<<<< HEAD
 
 no mail
+=======
+bananagamer182@gmail.com
+>>>>>>> main
